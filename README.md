@@ -1,16 +1,37 @@
-### Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**nitish3006/nitish3006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm Nitish Bhardwaj, a final year MCA student with a passion for coding and exploring the vast world of technology. This repository serves as a hub for my projects, skills, and journey in the world of software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+- **Languages:** Java, Python, [Add any others]
+- **Web Development:** HTML, CSS, JavaScript
+- **Frameworks:** Spring Boot, Django
+- **Database:** MySQL, SQLite
+- **Tools:** Git, VS Code, Eclipse
+
+## 🚀 Projects
+
+Explore a variety of projects ranging from web applications to algorithmic challenges. Each project is a reflection of my learning and exploration in the tech space.
+
+- **Project 1: [Project Name]**
+  - Description: Brief overview of the project and its goals.
+  - Technologies: List of technologies used.
+
+- **Project 2: [Project Name]**
+  - Description: Brief overview of the project and its goals.
+  - Technologies: List of technologies used.
+
+## 📚 Learning Journey
+
+Follow along with my 100-day coding challenge where I'm diving into Core Java, frontend development, SQL, data structures, and algorithms. Let's grow and learn together!
+
+## 📫 Connect with Me
+
+- [LinkedIn](Your LinkedIn Profile)
+- [Twitter](Your Twitter Handle)
+- Email: Your Professional Email
+
+Feel free to explore my projects, connect with me, and let's collaborate on some exciting coding adventures! 🌐💻
