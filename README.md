@@ -6,7 +6,7 @@ I'm Nitish Bhardwaj, a final year MCA student with a passion for coding and expl
 
 ## 🔧 Skills
 
-- **Languages:** Java, Python, [Add any others]
+- **Languages:** Java, Python, C
 - **Web Development:** HTML, CSS, JavaScript
 - **Frameworks:** Spring Boot, Django
 - **Database:** MySQL, SQLite
@@ -30,8 +30,13 @@ Follow along with my 100-day coding challenge where I'm diving into Core Java, f
 
 ## 📫 Connect with Me
 
-- [LinkedIn](Your LinkedIn Profile)
-- [Twitter](Your Twitter Handle)
-- Email: Your Professional Email
+## 📫 Connect with Me
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/nitish-bhardwaj-7792701b2/) 
+[<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter.png" />](https://twitter.com/) 
+[<img align="left" alt="Email" width="22px" src="https://img.icons8.com/color/48/000000/gmail.png" />](nitish2001.nb@gmail.com)
+
+<br />
+
 
 Feel free to explore my projects, connect with me, and let's collaborate on some exciting coding adventures! 🌐💻
