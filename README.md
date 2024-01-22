@@ -6,7 +6,7 @@ I'm Nitish Bhardwaj, a final year MCA student with a passion for coding and expl
 
 ## 🔧 Skills
 
-- **Languages:** Java, Python, C
+- **Languages:** Java, Python, C, C++
 - **Web Development:** HTML, CSS, JavaScript
 - **Frameworks:** Spring Boot, Django
 - **Database:** MySQL, SQLite
